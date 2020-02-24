@@ -23,7 +23,7 @@ function Projects() {
             <div className='view'>
               <img
                 className='d-block w-100'
-                src='dadaoo.png'
+                src='https://github.com/horlaarsco/rest/raw/master/public/dadaoo.png'
                 alt='First slide'
               ></img>
             </div>
@@ -32,7 +32,7 @@ function Projects() {
             <div className='view'>
               <img
                 className='d-block w-100'
-                src='udacity.png'
+                src='https://github.com/horlaarsco/rest/raw/master/public/udacity.png'
                 alt='Second slide'
               ></img>
             </div>
@@ -41,7 +41,7 @@ function Projects() {
             <div className='view'>
               <img
                 className='d-block w-100'
-                src='horla.png'
+                src='https://github.com/horlaarsco/rest/raw/master/public/horla.png'
                 alt='Third slide'
               ></img>
             </div>

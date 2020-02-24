@@ -12,7 +12,11 @@ function Home() {
           </p>
         </div>
         <div className='w-50 '>
-          <img className='dadaimg' src='/dada.jpg' alt='' />
+          <img
+            className='dadaimg'
+            src='https://github.com/horlaarsco/rest/raw/master/public/dada.jpg'
+            alt=''
+          />
         </div>
       </div>
     </div>
